@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": [
+      {
+        "text": "Axolotl Bucket Variants 1.19",
+        "color": "gold"
+      },
+      {
+        "text": "\nRequires CIT Resewn/Optifine",
+        "color": "yellow"
+      }
+    ]
+  }
+}
