@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 9,
+    "pack_format": 12,
     "description": [
       {
-        "text": "Axolotl Bucket Variants 1.19",
+        "text": "Axolotl Bucket Variants 1.19.3+",
         "color": "gold"
       },
       {
