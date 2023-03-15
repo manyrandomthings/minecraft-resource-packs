@@ -1,6 +1,6 @@
 # Resource packs
 
-Images are optimized with oxipng using: `oxipng -o max -s -a -Z *.png`
+Images are optimized with oxipng using: `oxipng -o max -s -a *.png`
 
 ## Axolotl Bucket Variants
 * Adds unique icons for axolotls in buckets
