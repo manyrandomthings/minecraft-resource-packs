@@ -1,4 +1,4 @@
 {
 	"type": "axolotl_variant",
-	"variantsDir": "item/axolotl_bucket"
+	"modelPrefix": "item/axolotl_bucket_"
 }
